@@ -1,1 +1,1 @@
-words = ("whale","gre)
+words = ("whale","gree)
