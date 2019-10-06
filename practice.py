@@ -1,2 +1,2 @@
 words = ("whale","green", "chocolate")
-new_word = ("blu
+new_word = ("blue
