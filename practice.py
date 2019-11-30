@@ -1,2 +1,2 @@
 words = ["whale", "mango", "orange"]
-new_word = ["ta
+new_word = ["tap
