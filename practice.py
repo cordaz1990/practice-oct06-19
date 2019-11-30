@@ -1,2 +1,1 @@
-words = ("whale","green", "chocolate")
-new_word = ("blue")
+w
