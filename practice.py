@@ -1,1 +1,1 @@
-words = ["whale", "mang
+words = ["whale", "mango
