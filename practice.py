@@ -1,3 +1,3 @@
 words = ["whale", "mango", "orange"]
 new_word = ["tape"]
-p
+print()
