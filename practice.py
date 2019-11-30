@@ -1,2 +1,2 @@
 words = ["whale", "mango", "orange"]
-new_wor
+new_word
